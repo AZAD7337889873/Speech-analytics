@@ -1,0 +1,31 @@
+call_id,date,agent_id,duration_seconds,transcript,sentiment,intent,resolved,csat_score
+CALL-001,2026-09-01,AG-01,245,Thank you for helping me reset my password. The instructions were clear and my account works now.,Positive,Account access,1,5
+CALL-002,2026-09-01,AG-02,382,I have been waiting for three days and nobody has resolved my billing issue.,Negative,Billing,0,2
+CALL-003,2026-09-02,AG-01,190,I want to know when my order will arrive. The tracking page has not updated.,Neutral,Order status,1,3
+CALL-004,2026-09-02,AG-03,420,The product arrived broken and I need a refund. This is very disappointing.,Negative,Refund or return,0,1
+CALL-005,2026-09-03,AG-02,155,The agent was friendly and quickly updated my delivery address. Thanks.,Positive,Delivery change,1,5
+CALL-006,2026-09-03,AG-04,310,I was charged twice and need someone to explain the extra payment.,Negative,Billing,0,2
+CALL-007,2026-09-04,AG-01,205,Could you explain how to activate the service? I am not sure where to start.,Neutral,Product guidance,1,3
+CALL-008,2026-09-04,AG-03,278,Everything is working perfectly now. I appreciate the quick support.,Positive,Technical support,1,5
+CALL-009,2026-09-05,AG-02,460,I called last week about the same problem and it still has not been fixed.,Negative,Technical support,0,1
+CALL-010,2026-09-05,AG-04,225,Please change my plan next month and confirm the new monthly price.,Neutral,Plan change,1,4
+CALL-011,2026-09-06,AG-01,175,The return process was easy and the refund arrived today. Great service.,Positive,Refund or return,1,5
+CALL-012,2026-09-06,AG-03,335,My package is late and the support page gives confusing information.,Negative,Delivery,0,2
+CALL-013,2026-09-07,AG-02,260,I need a copy of my invoice for the previous month.,Neutral,Billing,1,4
+CALL-014,2026-09-07,AG-04,395,The app keeps crashing and I cannot complete my payment. This is frustrating.,Negative,Technical support,0,1
+CALL-015,2026-09-08,AG-01,145,"Thanks, that answered my question and I am happy with the solution.",Positive,Product guidance,1,5
+CALL-016,2026-09-08,AG-03,285,Can you tell me the status of my replacement order?,Neutral,Order status,1,3
+CALL-017,2026-09-09,AG-02,505,I have explained this twice. The wrong amount is still on my account and I am upset.,Negative,Billing,0,1
+CALL-018,2026-09-09,AG-04,215,The agent was helpful and the setup was quick. Everything is good.,Positive,Account access,1,5
+CALL-019,2026-09-10,AG-01,330,I would like to cancel my subscription because I no longer need the service.,Neutral,Cancellation,1,3
+CALL-020,2026-09-10,AG-03,440,The replacement never arrived and nobody has given me a useful update.,Negative,Delivery,0,1
+CALL-021,2026-09-11,AG-02,180,Please help me update the email address linked to my account.,Neutral,Account access,1,4
+CALL-022,2026-09-11,AG-04,250,Excellent support. The issue was resolved in a few minutes.,Positive,Technical support,1,5
+CALL-023,2026-09-12,AG-01,365,I was promised a refund but the money has not arrived. I am disappointed.,Negative,Refund or return,0,2
+CALL-024,2026-09-12,AG-03,200,I need to understand the features included in my current plan.,Neutral,Plan change,1,3
+CALL-025,2026-09-13,AG-02,295,"Thank you, the invoice is correct now and the explanation was helpful.",Positive,Billing,1,5
+CALL-026,2026-09-13,AG-04,410,The device stopped working again after the repair. This is terrible.,Negative,Technical support,0,1
+CALL-027,2026-09-14,AG-01,235,Can I move my delivery to Friday afternoon?,Neutral,Delivery change,1,4
+CALL-028,2026-09-14,AG-03,185,That was quick and easy. I appreciate your help.,Positive,General support,1,5
+CALL-029,2026-09-15,AG-02,350,I cannot log in and the password reset link failed several times.,Negative,Account access,0,2
+CALL-030,2026-09-15,AG-04,270,"I have a question about my bill, but there is no urgent problem.",Neutral,Billing,1,4
